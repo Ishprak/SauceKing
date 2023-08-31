@@ -1,0 +1,40 @@
+body {
+    background-color: lavender;
+}
+
+h5 {
+    color: black;
+}
+
+p {
+    color: black;
+}
+
+img {
+    width: 400px;
+    height: 200px;
+}
+
+#list {
+    margin-top: 20px;
+    background-color: tan;
+}
+
+.marketing {
+    background-color: lightblue;
+}
+
+.heading {
+    padding-top: 60px;
+}
+
+.rounded-circle{
+    width: 150px;
+    height: 150px;
+}
+
+.featurette-image {
+    width: 500px;
+    height: 300px;
+}
+
